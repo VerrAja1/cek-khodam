@@ -18,6 +18,13 @@ function generateKhodam(nama) {
     "Dimas Raja Kripto",
     "Naga Skibidi",
     "Ulet Introvert",
+    "Naga Sigma",
+    "Kucing Terbang",
+    "Harimau Mewing",
+    "Topi Terbang",
+    "Skibidi Toilet",
+    "Ohio Final Boss",
+    "Ulet sigma",
   ];
   const index = nama.length % khodams.length;
   return khodams[index];
